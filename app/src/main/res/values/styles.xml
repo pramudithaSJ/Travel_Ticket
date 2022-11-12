@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0099CC</item>
+        <item name="colorPrimaryDark">#0099CC</item>
+        <item name="colorAccent">@color/purple_500</item>
+    </style>
+
+    <color name="colorAccent">#0099CC</color>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

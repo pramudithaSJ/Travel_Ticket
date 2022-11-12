@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433595676360",
+    "project_id": "travelticket-be5b2",
+    "storage_bucket": "travelticket-be5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433595676360:android:7ba17e6b0edabb0309d7fd",
+        "android_client_info": {
+          "package_name": "com.uee.travel_ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433595676360-i8fqk4d0ticbjjvl6dfmlqpsmsuacoru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosprwRebKA1teJDoxBzxpNUFhrSV8OzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433595676360-i8fqk4d0ticbjjvl6dfmlqpsmsuacoru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
